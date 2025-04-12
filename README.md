@@ -1,4 +1,4 @@
-# 🇰🇪 Kenya Micro-Agent for Trend-Based Content
+# Trendy-Agent.com for AI-Based Content Creation
 
 A micro-agent that:
 - Tracks top Kenyan trends (Twitter + News)
